@@ -1,2 +1,2 @@
-- line edited to check switch -c command -edited differently
+Test1 git merge
 Edit 1
