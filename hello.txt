@@ -1,2 +1,2 @@
-Test 1 changed for main
+Main branch text
 Edit 1
