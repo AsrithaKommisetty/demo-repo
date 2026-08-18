@@ -1,2 +1,2 @@
-Test 1 for hello text
+Test 1 for hello text - line edited to check switch -c command
 Edit 1
