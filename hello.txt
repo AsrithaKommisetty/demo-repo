@@ -1,1 +1,1 @@
-Test 1 changed for feature/title branch
+Made a small change
